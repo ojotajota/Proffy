@@ -2,7 +2,7 @@
    <img src="./.github/logo.png" alt="Proffy" width="280"/>
 </p>
 <p align="center">	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Suburbanno/proffy?color=774DD6">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ojotajota/proffy?color=774DD6">
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
     <img src="https://img.shields.io/badge/Proffy-NLW 2.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
@@ -60,7 +60,7 @@ As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** n
 # 👷 Como rodar
 ```bash
 # Clonar o repositório
-git clone https://github.com/Suburbanno/Proffy
+git clone https://github.com/ojotajota/Proffy
 
 # Entrar no diretório
 cd proffy-discovery
@@ -92,5 +92,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/suburbanno/" target="_blank">Vinicius Rodrigues</a>
+    Feito com 💜 by <a href="https://www.linkedin.com/in/juscelino-júnior-19aab5113/" target="_blank">Juscelino Júnior</a>
 </h4>
