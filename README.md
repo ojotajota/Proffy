@@ -59,7 +59,7 @@ git clone https://github.com/ojotajota/Proffy
 cd proffy-discovery
 
 # Baixar as dependências
-npm i
+npm install
 
 # Executar o servidor
 npm run dev
